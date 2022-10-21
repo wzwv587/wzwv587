@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wzwv587
 - 👀 I’m interested in 2D materials and computaional methods
-- 🌱 I’m currently learning TBPM
+- 🌱 I’m currently learning algorithm and AI
 - 💞️ I’m looking to collaborate on AI 
 - 📫 How to reach me zewen.wu@ru.nl
 
