@@ -2,7 +2,7 @@
 - 👀 I’m interested in 2D materials and computaional methods
 - 🌱 I’m currently learning algorithm and AI
 - 💞️ I’m looking to collaborate on AI 
-- 📫 How to reach me zewen.wu@ru.nl
+- 📫 How to reach me zw.wu@whu.edu.cn
 
 <!---
 wzwv587/wzwv587 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
